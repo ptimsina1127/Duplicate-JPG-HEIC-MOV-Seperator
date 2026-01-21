@@ -45,7 +45,7 @@ This tool is designed to help you **organize your photos and videos from iPhone*
 
 1. Download the script and save it as `iphone_media_gui.py`.  
 2. Run the script:  
-`bash
+```bash
 python iphone_media_gui.py
 
 ---
