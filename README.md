@@ -58,19 +58,19 @@ python iphone_media_gui.py
 3. Click the buttons to move, separate, or restore files.
 4. Monitor the status box and progress bar to track progress.
 5. Screenshots / GIFs
-
 GUI Main Window:
+
+<br><br>
 <img width="674" height="633" alt="image" src="https://github.com/user-attachments/assets/a270d69b-114d-4e19-9fe6-a86ccc20062c" />
+<br><br>
 
-
-Dry Run Mode/Restoring Files:
+Dry Run Mode/Restoring Files:<br><br>
 <img width="671" height="668" alt="image" src="https://github.com/user-attachments/assets/87c793ee-b333-467b-8bab-491cc53e66a4" />
-
-
+<br><br>
 GIF Example of Moving Files:
-
+<br><br><br><br>
 ![python_qKTYCmQTDQ](https://github.com/user-attachments/assets/22c97a5e-6ad6-4bf2-8617-91146dfd04c9)
-
+<br><br><br><br>
 Benefits
 1. Organizes all your iPhone media files in one place.
 2. Eliminates confusion with duplicate names across formats.
