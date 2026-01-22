@@ -2,7 +2,7 @@
 
 **A Very Handy tool to separate same-named JPG, HEIC, and MOV files.**  
 
-This tool is designed to help you **organize your photos and videos from iPhone** efficiently. If you've ever struggled with managing files in the Apple ecosystem, this is your **relief** — keeping all your media neat and easy to restore.  
+This tool is designed to help you **organize your photos and videos from iPhone** efficiently. If you've ever struggled with managing files in the Apple ecosystem, this is your **relief** , keeping all your media neat and easy to restore.  
 
 ---
 
