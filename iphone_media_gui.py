@@ -5,6 +5,11 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext
 from tkinter.ttk import Progressbar
 
+APP_NAME = "iPhone Media Organizer"
+APP_VERSION = "v1.0"
+
+root.title(f"{APP_NAME} {APP_VERSION}")
+
 # ---------------------------
 # Utility Functions
 # ---------------------------
