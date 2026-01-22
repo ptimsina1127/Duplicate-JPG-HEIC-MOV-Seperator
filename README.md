@@ -55,7 +55,11 @@ Your media stays neat, easy to manage, and easy to restore(however it was just a
 python iphone_media_gui.py
 
 ```
+## Download (Windows)
 
+Go to the **Releases** section and download the latest `.exe` file.
+
+No Python or command line required.
 ---
 ## Follow these steps in the GUI:
 
