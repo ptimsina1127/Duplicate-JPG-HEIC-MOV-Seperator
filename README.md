@@ -1,8 +1,14 @@
 # iPhone Media Organizer Tool
 
-**A Very Handy tool to separate same-named JPG, HEIC, and MOV files.**  
+**A very handy tool to separate same-named JPG, HEIC, and MOV files.**
 
-This tool is designed to help you **organize your photos and videos from iPhone** efficiently. If you've ever struggled with managing files in the Apple ecosystem, this is your **relief** , keeping all your media neat and easy to restore.  
+This tool helps you **organize photos and videos copied from an iPhone** in a simple and safe way.  
+If you have copied all your photos from an Apple iPhone and now see the **same photos with different file types** (JPG, HEIC, MOV), this tool is for you.
+
+Many iPhone photos come with **Live Photo videos (MOV files)** that can make folders messy and confusing.  
+This small and handy tool helps you **separate or remove Live Photos**, keep only what you need, and **organize everything cleanly**.
+
+Your media stays neat, easy to manage, and easy to restore(however it was just after copying from iphone) anytime.
 
 ---
 
