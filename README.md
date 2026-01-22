@@ -57,17 +57,13 @@ python iphone_media_gui.py
 2. Toggle Dry Run if you want to test the actions first.
 3. Click the buttons to move, separate, or restore files.
 4. Monitor the status box and progress bar to track progress.
-
 5. Screenshots / GIFs
+
 GUI Main Window:
 <img width="674" height="633" alt="image" src="https://github.com/user-attachments/assets/a270d69b-114d-4e19-9fe6-a86ccc20062c" />
 
 
-Dry Run Mode:
-<img width="493" height="674" alt="image" src="https://github.com/user-attachments/assets/f8747227-ad24-461d-8f9a-6294890cdfa1" />
-
-
-Restoring Files:
+Dry Run Mode/Restoring Files:
 <img width="671" height="668" alt="image" src="https://github.com/user-attachments/assets/87c793ee-b333-467b-8bab-491cc53e66a4" />
 
 
