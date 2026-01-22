@@ -60,18 +60,20 @@ python iphone_media_gui.py
 
 5. Screenshots / GIFs
 GUI Main Window:
+<img width="674" height="633" alt="image" src="https://github.com/user-attachments/assets/a270d69b-114d-4e19-9fe6-a86ccc20062c" />
 
 
 Dry Run Mode:
+<img width="493" height="674" alt="image" src="https://github.com/user-attachments/assets/f8747227-ad24-461d-8f9a-6294890cdfa1" />
 
 
 Restoring Files:
+<img width="671" height="668" alt="image" src="https://github.com/user-attachments/assets/87c793ee-b333-467b-8bab-491cc53e66a4" />
 
 
 GIF Example of Moving Files:
 
-
-You can replace the screenshots/ paths with your actual images or GIFs.
+![python_qKTYCmQTDQ](https://github.com/user-attachments/assets/22c97a5e-6ad6-4bf2-8617-91146dfd04c9)
 
 Benefits
 1. Organizes all your iPhone media files in one place.
