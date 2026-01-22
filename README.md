@@ -47,32 +47,3 @@ This tool is designed to help you **organize your photos and videos from iPhone*
 2. Run the script:  
 ```bash
 python iphone_media_gui.py
-
----
-## Follow these steps in the GUI:
-
-Browse and select your iPhone main folder.
-Toggle Dry Run if you want to test the actions first.
-Click the buttons to move, separate, or restore files.
-Monitor the status box and progress bar to track progress.
-
-Screenshots / GIFs
-GUI Main Window:
-
-
-Dry Run Mode:
-
-
-Restoring Files:
-
-
-GIF Example of Moving Files:
-
-
-You can replace the screenshots/ paths with your actual images or GIFs.
-
-Benefits
-Organizes all your iPhone media files in one place.
-Eliminates confusion with duplicate names across formats.
-Provides a safe and reversible workflow.
-A relief to the Apple ecosystem, giving you control over your photos and videos.
